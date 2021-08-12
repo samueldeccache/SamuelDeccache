@@ -1,5 +1,4 @@
 ### Hi there, I'm Samuel Deccache 👋
-
  <div>
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samueldeccache&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
